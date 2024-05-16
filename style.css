@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://images.pexels.com/photos/5976404/pexels-photo-5976404.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+p{
+font-size: 25px;
+color: white;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+color:white;
+}
+   
+nav{
+    font-size: 30px;
+}
+   
